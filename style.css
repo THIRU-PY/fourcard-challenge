@@ -1,0 +1,69 @@
+body{
+  text-align: center;
+  padding-top:3.125rem;
+  padding-left: 6.25rem;
+  padding-right: 6.25rem;
+}
+.heading-section{
+  line-height: 1.5;
+  font-family: 'Nunito', sans-serif;
+  display:inline-block;
+  width:31.25rem;
+}
+.top, .bot{
+  font-weight: normal;
+  color: #40514E;
+}
+.mid{
+  font-weight: bold;
+}
+.card-deck{
+  padding-top: 3rem;
+}
+.cc{
+  height:15rem;
+  width:20rem;
+  border-style: solid none none none;
+  border-width: thick;
+  box-shadow: 2px 2px 7px  #888888;
+  z-index: 1;
+}
+.sc{
+  height:15rem;
+  width:20rem;
+  top:12.5rem;
+  border-style: solid none none none;
+  border-width: thick;
+  box-shadow: 2px 2px 7px #888888;
+    z-index: 1;
+}
+.karma, .team{
+  margin-bottom: 4rem;
+  padding:0
+}
+.tkc{
+  border-style: none;
+  margin: auto;
+  text-align: center;
+}
+.ch, .cd{
+  text-align: left;
+}
+.card-title h2{
+  margin-left: 1.25rem;
+}
+.icon{
+  padding-left:12.5rem;
+}
+.sc{
+  border-top-color: skyblue;
+}
+.tc{
+  border-top-color: red;
+}
+.kc{
+  border-top-color: yellow;
+}
+.calc{
+  border-top-color: blue;
+}
